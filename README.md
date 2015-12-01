@@ -1,2 +1,4 @@
 # AdventOfCodeChallenge
-Because I can.
+###### http://adventofcode.com/
+
+Challenges done in Javascript.  Run with node.
