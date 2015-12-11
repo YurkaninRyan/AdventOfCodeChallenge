@@ -35,7 +35,7 @@ for(var i = 0; i < grouped_instructions.length; i++) {
 }
 
 /* Remove this comment for part 2 */
-/*Wires.b = function() { return 16076; }*/
+/* Wires.b = function() { return 16076; }*/
 console.log(Wires.run('a'));
 
 
